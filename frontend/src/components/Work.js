@@ -35,12 +35,7 @@ const Work = () => {
             </picture>
             <div className="flex flex-col overflow-auto  space-y-3 my-3 mx-1 w-full md:w-5/12 ">
               <h3 className="uppercase font-bold text-lg">Full Stack Development Intern At NotchUp - (Ed tech startup founded by IIT IIM alumini) (Nov ,2020 - April,2021)</h3>
-              <ul>
-              <li>-Single Handedly Worked on 5 different modules with full owenership of designing architecture and management .</li>
-              <li>-Actively managed deploying cycles on amazon ec2 </li>
-              <li>-Developed a partner-referral system using react js node js and MySQL adding feature to reffer courses </li>
-              <li>-Developed cron based automated systems  doing task such as taking feedback , pdf generation , email management with nodemailer</li>
-              </ul>
+              <p>Notchup is an EduTech Company that provides you with LIVE online skill development courses designed by IIT, IIM, Harvard Alumni for Ages 5-17 Years</p>
               <div className="flex overflow-visible space-x-3 pb-2">
                   <span
                     className="border border-gray-500 px-2 py-1 rounded-lg text-sm"
@@ -70,8 +65,6 @@ const Work = () => {
               </div>
             </div>
           </article>
-        </div>
-        <div className="my-7 space-y-24">
           <article
             className="flex flex-wrap md:justify-between md:items-center"
           >
@@ -99,12 +92,7 @@ const Work = () => {
             </picture>
             <div className="flex flex-col overflow-auto  space-y-3 my-3 mx-1 w-full md:w-5/12 ">
               <h3 className="uppercase font-bold text-lg">Full Stack Development Intern At FInllect (May ,2020 - October,2020)</h3>
-              <ul>
-              <li>-Developed microservices to introduce new features for third party  API integration like one signal ,slack,DAPI into the existing product </li>
-              <li>-Developed A worker Server utilizing Redis based message queues for load management</li>
-              <li>-Integrated single sign on using keycloak in existing application Used tools like JIRA,elastic search,bitbucket on a daily basis</li>
-              <li>-Single handedly worked on various chunks including slackbot server and a realtime quiz application server</li>
-              </ul>
+              <p> Finllect is a Fin - Tech Company and Under 100 emerging startups in Abu Dhabi, on a mission to make the next generation of consumers become more mindful with their money .  </p>
               <div className="flex overflow-auto space-x-3 pb-2">
                   <span
                     className="border border-gray-500 px-2 py-1 rounded-lg text-sm"
@@ -134,8 +122,6 @@ const Work = () => {
               </div>
             </div>
           </article>
-        </div>
-        <div className="my-7 space-y-24">
           <article
             className="flex flex-wrap md:justify-between md:items-center"
           >
@@ -162,12 +148,8 @@ const Work = () => {
               />
             </picture>
             <div className="flex flex-col overflow-auto  space-y-3 my-3 mx-1 w-full md:w-5/12 ">
-              <h3 className="uppercase font-bold text-lg">Full Stack Developmen Intern At Digiyouth Infotech (May ,2020 - july,2020)</h3>
-              <ul>
-              <li>-Improved UI by introducing new features for the existing product </li>
-              <li>-Integrated React and node js based Admin Panel for management team analytics and data handling</li>
-              <li>-Developed an Online learning platform prototype </li>
-              </ul>
+              <h3 className="uppercase font-bold text-lg">Full Stack Development Intern At Digiyouth Infotech (May ,2020 - july,2020)</h3>
+              <p>Digiyouth is a Digital Marketing Company which specializes in providing best in class services like search engine optimization , business branding , social media marketing etc.</p>
               <div className="flex overflow-auto space-x-3 pb-2">
                   <span
                     className="border border-gray-500 px-2 py-1 rounded-lg text-sm"

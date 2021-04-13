@@ -34,7 +34,7 @@ const projects = [
   {
     title: 'Lets Chat',
     image: './images/projects/chatroom.jpg',
-    description: 'Realtime chat room using web sockets that heps you and your friends enjoy realtime group chats online',
+    description: 'Realtime chat room using web sockets that helps you and your friends enjoy realtime group chats online',
     tools: ['ReactJS','NodeJS', 'Socket Io','Express'],
     github: 'https://github.com/veeralsharma/chatRoom',
     link: 'https://vshchat.netlify.app/',
